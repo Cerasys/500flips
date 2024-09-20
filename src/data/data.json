@@ -1,0 +1,123 @@
+{
+  "Header": {
+    "title": "We are a Landing Page",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+
+  "Services": [
+    {
+      "icon": "fa fa-home",
+      "name": "Ads, Ads, and More Ads",
+      "text": "We’ll test new ads for you on a week by week basis, so your audience never gets ad fatigue"
+    },
+    {
+      "icon": "fa fa-desktop",
+      "name": "A Killer Landing Page",
+      "text": "Build you custom landing pages and sales funnels that help you scale like CRAZY."
+    },
+    {
+      "icon": "fa fa-map-marker",
+      "name": "A CRM to Rule Them All",
+      "text": "Get you on our award winning CRM, set up and customized just for your needs."
+    },
+    {
+      "icon": "fa fa-lightbulb-o",
+      "name": "Lead Automation",
+      "text": "Automate your lead nurture, so you can be sure knowing your leads are getting hit as soon as they interact with your business at all times during the day (and night!)."
+    },
+    {
+      "icon": "fa fa-group",
+      "name": "Dedicated Marketing Professionals",
+      "text": " A team of copywriters and media buyers who will write, shoot, and edit your ads for you."
+    },
+    {
+      "icon": "fa fa-mortar-board",
+      "name": "Dedicated Marketing Professionals",
+      "text": "Build long term marketing strategies to continue working your leads who aren't ready to sell just yet"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/nathan.jpg",
+      "name": "Nathan Lee",
+      "job": "CEO and Founder",
+      "link": "https://www.nathanblee.com"
+    }
+  ],
+  "Contact": {
+    "phone": "+1 425 919 4634",
+    "email": "nathan@500flips.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com/@500flips"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
